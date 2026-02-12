@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "jurisdiction": "AB",
+    "version": "2026.1.0",
+    "effective_date": "2026-02-11",
+    "status": "draft",
+    "sources": [],
+    "changelog": [
+      "Initial scaffold"
+    ]
+  },
+  "pests": {},
+  "report_schema": {}
+}
